@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nur Falah</h1>
-<h3 align="justify">Informatics Engineering student at the University of Riau, passionate about Data Science, Machine Learning, and Artificial Intelligence. Currently building my foundations in Python, computer science, data science, and machine learning Aspiring Data Scientist & ML Engineer. Always learning, building, and exploring new opportunities in technology.</h3>
+<h3 align="justify">Informatics Engineering student at the University of Riau, passionate about Data Science, Machine Learning, and Artificial Intelligence. Currently building my foundations in Python, computer science, data science, and machine learning Aspiring Data Analyst, Data Scientist & ML Engineer. Always learning, building, and exploring new opportunities in technology.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
