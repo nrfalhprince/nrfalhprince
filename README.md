@@ -28,22 +28,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/Matplotlib.png?raw=true" alt="matplotlib" width="50" height="50"/>
+    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-Matplotlib_icon.svg.webp?raw=true" alt="matplotlib" width="50" height="50"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/Logo-seaborn.png?raw=true" alt="seaborn" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/nrfalhprince/profile-readme-assets/7ee8e46e48e3136849495fd5b265851440cbd7e1/Tools%20Icon/seaborn-icon.svg?token=CIC5X7WX2HJ4H4OJ7OXWQFLLBADGO" alt="seaborn" width="50" height="50"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/numpy.png?raw=true" alt="numpy" width="50" height="50"/>
+    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-Numpy-svgrepo-com.svg.webp?raw=true" alt="numpy" width="50" height="50"/>
   </a>
   <a href="https://id.wikipedia.org/wiki/Microsoft_Excel" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/excel_icon.png?raw=true" alt="excel" width="50" height="50"/>
+    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-Microsoft_Office_Excel_(2019%E2%80%932025).svg.webp?raw=true" alt="excel" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-fabric/features/power-bi" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/powerbi.png?raw=true" alt="power bi" width="50" height="50"/>
+    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-New_Power_BI_Logo.svg.webp?raw=true" alt="power bi" width="50" height="50"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/postgresql.png?raw=true" alt="postgre sql" width="50" height="50"/>
+    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-Postgresql_elephant.svg.webp?raw=true" alt="postgre sql" width="50" height="50"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
@@ -52,13 +52,13 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
   <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/spyderide.png?raw=true" alt="spyder IDE" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/nrfalhprince/profile-readme-assets/7ee8e46e48e3136849495fd5b265851440cbd7e1/Tools%20Icon/icons8-spyder-ide-5-240.svg?token=CIC5X7THTUYMDUD53SLMUL3LBADII" alt="spyder IDE" width="50" height="50"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/PyCharm.png?raw=true" alt="pycharm" width="50" height="50"/>
+    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-PyCharm_Icon.svg.webp?raw=true" alt="pycharm" width="50" height="50"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/Visual%20Studio%20Code%20(VS%20Code).png?raw=true" alt="visual studio code" width="50" height="50"/>
+    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-Visual_Studio_Code_1.35_icon.svg.webp?raw=true" alt="visual studio code" width="50" height="50"/>
   </a>
 </p>
 
