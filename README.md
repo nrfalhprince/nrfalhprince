@@ -36,7 +36,7 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-Numpy-svgrepo-com.svg.webp?raw=true" alt="numpy" width="50" height="50"/>
   </a>
-  <a href="https://id.wikipedia.org/wiki/Microsoft_Excel" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/id-id/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-Microsoft_Office_Excel_(2019%E2%80%932025).svg.webp?raw=true" alt="excel" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-fabric/features/power-bi" target="_blank" rel="noreferrer">
