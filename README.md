@@ -63,17 +63,17 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrfalhprince&show_icons=true&locale=en&layout=compact" alt="nrfalhprince" />
+  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrfalhprince&show_icons=true&locale=en&layout=compact" alt="nrfalhprince" />
 </p>
 <br>
   
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nrfalhprince&show_icons=true&locale=en" alt="nrfalhprince" />
+<p align="center">&nbsp;>
+  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=nrfalhprince&show_icons=true&locale=en" alt="nrfalhprince" />
 </p>
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrfalhprince&" alt="nrfalhprince" />
+  <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=nrfalhprince&" alt="nrfalhprince" />
 </p>
 <br clear="both">
 
