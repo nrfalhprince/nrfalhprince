@@ -67,7 +67,7 @@
 </p>
 <br>
   
-<p align="center">&nbsp;>
+<p align="center">&nbsp;
   <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=nrfalhprince&show_icons=true&locale=en" alt="nrfalhprince" />
 </p>
 <br>
