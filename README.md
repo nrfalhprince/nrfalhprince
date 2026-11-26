@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Nur%20Falah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Data%20Scientist%20%26%20ML%20Engineer&descSize=20&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Nur%20Falah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Data%20Scientist%20and%20ML%20Engineer&descSize=20&descAlignY=58" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi+there!+I'm+Muhammad+Nur+Falah+%F0%9F%91%8B;Informatics+Engineering+Student+at+University+of+Riau;Passionate+about+Data+Science+%26+Machine+Learning;Always+learning%2C+building%2C+and+exploring" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&height=40&lines=Hi+there!+Welcome+to+my+profile;Informatics+Engineering+Student;at+University+of+Riau;Passionate+about+Data+Science+and+ML;Always+learning%2C+building%2C+exploring" alt="Typing SVG" />
 
 <br/>
 
@@ -70,12 +70,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nrfalhprince&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrfalhprince&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img width="495" src="https://github-readme-stats.vercel.app/api?username=nrfalhprince&show_icons=true&theme=tokyonight&hide_border=true&card_width=495" alt="GitHub stats" />
 
-<br/>
+<img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrfalhprince&layout=compact&theme=tokyonight&hide_border=true&card_width=495" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=nrfalhprince&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img width="495" src="https://streak-stats.demolab.com?user=nrfalhprince&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
