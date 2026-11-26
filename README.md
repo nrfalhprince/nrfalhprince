@@ -54,18 +54,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-| :-- | :-- | :-- |
-| 🔹 **Project Name** | One-line description of what it does | Python, Pandas |
-| 🔹 **Project Name** | One-line description of what it does | Python, Matplotlib |
-| 🔹 **Project Name** | One-line description of what it does | C |
-
-<!-- Replace the rows above with your real projects and add links like [Project Name](https://github.com/nrfalhprince/repo-name) -->
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
