@@ -1,83 +1,90 @@
-<br clear="both">
+<div align="center">
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muhammad%20Nur%20Falah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20Data%20Scientist%20%26%20ML%20Engineer&descSize=20&descAlignY=58" width="100%" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi+there!+I'm+Muhammad+Nur+Falah+%F0%9F%91%8B;Informatics+Engineering+Student+at+University+of+Riau;Passionate+about+Data+Science+%26+Machine+Learning;Always+learning%2C+building%2C+and+exploring" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/muhammadnurfalah2006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://kaggle.com/nurfalahprince"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://instagram.com/nrfalh_prince"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
 </div>
 
-###
+---
 
-<h1 align="center">Hi There!, I'm Muhammad Nur Falah</h1>
-<h3 align="justify">Informatics Engineering student at the University of Riau, passionate about Data Science, Machine Learning, and Artificial Intelligence. Currently building my foundations in Python, computer science, data science, and machine learning Aspiring Data Scientist & ML Engineer. Always learning, building, and exploring new opportunities in technology.</h3>
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammadnurfalah2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadnurfalah2006" height="30" width="40" /></a>
-<a href="https://kaggle.com/nurfalahprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nurfalahprince" height="30" width="40" /></a>
-<a href="https://instagram.com/nrfalh_prince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nrfalh_prince" height="30" width="40" /></a>
-</p>
+- 🎓 Informatics Engineering student at **University of Riau**
+- 🔭 Building strong foundations in **Python, Computer Science, Data Science, and Machine Learning**
+- 🎯 Aspiring **Data Scientist & ML Engineer**
+- 🌱 Always learning, building, and exploring new opportunities in technology
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-Matplotlib_icon.svg.webp?raw=true" alt="matplotlib" width="50" height="50"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/nrfalhprince/profile-readme-assets/7ee8e46e48e3136849495fd5b265851440cbd7e1/Tools%20Icon/seaborn-icon.svg?token=CIC5X7WX2HJ4H4OJ7OXWQFLLBADGO" alt="seaborn" width="50" height="50"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-Numpy-svgrepo-com.svg.webp?raw=true" alt="numpy" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/id-id/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-Microsoft_Office_Excel_(2019%E2%80%932025).svg.webp?raw=true" alt="excel" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-fabric/features/power-bi" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-New_Power_BI_Logo.svg.webp?raw=true" alt="power bi" width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-Postgresql_elephant.svg.webp?raw=true" alt="postgre sql" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  </a>
-  <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/nrfalhprince/profile-readme-assets/7ee8e46e48e3136849495fd5b265851440cbd7e1/Tools%20Icon/icons8-spyder-ide-5-240.svg?token=CIC5X7THTUYMDUD53SLMUL3LBADII" alt="spyder IDE" width="50" height="50"/>
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-PyCharm_Icon.svg.webp?raw=true" alt="pycharm" width="50" height="50"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/nrfalhprince/profile-readme-assets/blob/main/Tools%20Icon/1280px-Visual_Studio_Code_1.35_icon.svg.webp?raw=true" alt="visual studio code" width="50" height="50"/>
-  </a>
-</p>
+---
 
-<p align="center">
-  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrfalhprince&show_icons=true&locale=en&layout=compact" alt="nrfalhprince" />
-</p>
-<br>
-  
-<p align="center">&nbsp;
-  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=nrfalhprince&show_icons=true&locale=en" alt="nrfalhprince" />
-</p>
-<br>
+## 🛠️ Languages & Tools
 
-<p align="center">
-  <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=nrfalhprince&" alt="nrfalhprince" />
-</p>
-<br clear="both">
+**Languages**
 
-###
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Data Analysis & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & IDEs**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-B71C1C?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+| :-- | :-- | :-- |
+| 🔹 **Project Name** | One-line description of what it does | Python, Pandas |
+| 🔹 **Project Name** | One-line description of what it does | Python, Matplotlib |
+| 🔹 **Project Name** | One-line description of what it does | C |
+
+<!-- Replace the rows above with your real projects and add links like [Project Name](https://github.com/nrfalhprince/repo-name) -->
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nrfalhprince&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrfalhprince&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=nrfalhprince&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+<i>"Data is the new oil, but only if you know how to refine it."</i> ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="footer" />
+
 </div>
